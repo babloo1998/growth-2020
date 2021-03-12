@@ -1,0 +1,42 @@
+.camera-Component{
+    width: 100%;
+    height: 100vh;
+    background-color: #34344A;
+    .videoStream{
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%);
+        #video{
+            padding: 10px;
+            border: 2px solid white;
+        }
+    }
+    .snap-button{
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%);
+        #startbutton{
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            outline: none;
+        }
+    }
+};
+
+@media screen and (max-width: 600px) {
+    body {
+        text-align: center;
+        .videoStream{
+            position: static !important;
+            transform: translate(0%) !important;
+            #video{
+                width: 90%;
+                margin-top: 50px;
+                height: 400px;
+            }
+        }
+    }
+  }
