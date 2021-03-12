@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/growth-2020/static/css/main.4a092277.chunk.css",
+    "main.js": "/growth-2020/static/js/main.2bb96e2d.chunk.js",
+    "main.js.map": "/growth-2020/static/js/main.2bb96e2d.chunk.js.map",
+    "runtime-main.js": "/growth-2020/static/js/runtime-main.3374b9f8.js",
+    "runtime-main.js.map": "/growth-2020/static/js/runtime-main.3374b9f8.js.map",
+    "static/css/2.179b0f24.chunk.css": "/growth-2020/static/css/2.179b0f24.chunk.css",
+    "static/js/2.b400389b.chunk.js": "/growth-2020/static/js/2.b400389b.chunk.js",
+    "static/js/2.b400389b.chunk.js.map": "/growth-2020/static/js/2.b400389b.chunk.js.map",
+    "index.html": "/growth-2020/index.html",
+    "precache-manifest.f2f582254a1dcbb187a174a501271532.js": "/growth-2020/precache-manifest.f2f582254a1dcbb187a174a501271532.js",
+    "service-worker.js": "/growth-2020/service-worker.js",
+    "static/css/2.179b0f24.chunk.css.map": "/growth-2020/static/css/2.179b0f24.chunk.css.map",
+    "static/css/main.4a092277.chunk.css.map": "/growth-2020/static/css/main.4a092277.chunk.css.map",
+    "static/js/2.b400389b.chunk.js.LICENSE.txt": "/growth-2020/static/js/2.b400389b.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/growth-2020/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3374b9f8.js",
+    "static/css/2.179b0f24.chunk.css",
+    "static/js/2.b400389b.chunk.js",
+    "static/css/main.4a092277.chunk.css",
+    "static/js/main.2bb96e2d.chunk.js"
+  ]
+}
